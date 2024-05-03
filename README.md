@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+<img style="font-family: cursive;" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 I have more than 6 years of experience in developing modern web applications, ChatGPT & AI solutions.<br /> I strive to providing my clients with high-quality code and a user-friendly experience. <br />I have experience with several popular frameworks, which allows me to choose the best tool for creating a high-quality AI solution according to your needs.
 
 
@@ -32,8 +32,8 @@ I have more than 6 years of experience in developing modern web applications, Ch
       <br>Express
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
   </tr>
   <tr>
@@ -46,6 +46,10 @@ I have more than 6 years of experience in developing modern web applications, Ch
       <br>Typescript
     </td>
     <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
@@ -56,10 +60,6 @@ I have more than 6 years of experience in developing modern web applications, Ch
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
