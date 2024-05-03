@@ -98,6 +98,8 @@ I have more than 6 years of experience in developing modern web applications, Ch
   </tr>
 </table>
 
+![A demo of the app](./demo.gif)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
