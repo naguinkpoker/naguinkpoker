@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-I am a Python/Rust with 7 years and Blockchain developer with 5 years of experience.<br>With my experience in Blockchain/Web3, I am sure I am a perfect fit for blockchain jobs.<br>Here are some of my key skills and experience that I can offer:<br>- Experience in Rust/Solidity for blockchain smart contracts<br>- Experience in Rust/Python for backend and application<br>- Experience in smart contract development on ethereum, cosmos, polkadot<br>- Experience in DApps development using ether.js, cosmjs, web3.js<br>- Excellent communication and team spirit<br>I am passionate about blockchain and I am always looking for ways to improve my skills and stay up-to-date with the latest technologies. I am excited about the opportunity to work with your team and contribute to the success of your company.<br><br>Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+I have more than 6 years of experience in developing modern web applications, ChatGPT & AI solutions.<br /> I strive to providing my clients with high-quality code and a user-friendly experience. <br />I have experience with several popular frameworks, which allows me to choose the best tool for creating a high-quality AI solution according to your needs.
+
 
 # 💻 Tech Stack:
 
