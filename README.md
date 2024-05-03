@@ -8,6 +8,10 @@ I have more than 6 years of experience in developing modern web applications, Ch
 <table align="center">
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
+      <br>Artificial Intelligence
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
