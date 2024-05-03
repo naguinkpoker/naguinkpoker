@@ -12,6 +12,10 @@ I have more than 6 years of experience in developing modern web applications, Ch
       <br>AI 
     </td>
     <td align="center" width="100">
+      <img src="https://camo.githubusercontent.com/8cd9432c99e1ae34a18ce4a13686238cdc54691ec171b0f2dede9635e8dca786/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763526162647035356b5f4c717377507a6f532d5f54743958656f44734a764f656262435237487366456f42733476316a76415476436a6f4b35504932377336696b6d774f647726757371703d434155" width="45" height="45" alt="ChatGPT" />
+      <br>ChatGPT
+    </td>
+    <td align="center" width="100">
       <img src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" width="45" height="45" alt="LangChain" />
       <br>LangChain 
     </td>
@@ -22,10 +26,6 @@ I have more than 6 years of experience in developing modern web applications, Ch
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
