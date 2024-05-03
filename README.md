@@ -98,9 +98,10 @@ I have more than 6 years of experience in developing modern web applications, Ch
   </tr>
 </table>
 <div align="center">
-  ![A demo of the app](./demo.gif)
-</div>
 
+![A demo of the app](./demo.gif)
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
