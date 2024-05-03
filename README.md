@@ -8,9 +8,14 @@ I have more than 6 years of experience in developing modern web applications, Ch
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
-      <br>Artificial Intelligence
+      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="ai" />
+      <br>AI 
     </td>
+    <td align="center" width="90">
+      <img src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" width="45" height="45" alt="langchain" />
+      <br>AI 
+    </td>
+    
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
@@ -46,10 +51,6 @@ I have more than 6 years of experience in developing modern web applications, Ch
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
-      <br>Phoenix
     </td>
   </tr>
   <tr>
