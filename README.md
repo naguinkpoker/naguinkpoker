@@ -8,14 +8,13 @@ I have more than 6 years of experience in developing modern web applications, Ch
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="ai" />
+      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
       <br>AI 
     </td>
     <td align="center" width="90">
-      <img src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" width="45" height="45" alt="langchain" />
-      <br>AI 
+      <img src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" width="45" height="45" alt="LangChain" />
+      <br>LangChain 
     </td>
-    
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
