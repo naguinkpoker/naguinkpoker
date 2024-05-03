@@ -97,8 +97,9 @@ I have more than 6 years of experience in developing modern web applications, Ch
     </td>
   </tr>
 </table>
-
-![A demo of the app](./demo.gif)
+<div align="center">
+  ![A demo of the app](./demo.gif)
+</div>
 
 
 
