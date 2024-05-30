@@ -3,7 +3,7 @@
 I have more than 6 years of experience in developing modern web applications, ChatGPT & AI solutions.<br /> I strive to providing my clients with high-quality code and a user-friendly experience. <br />I have experience with several popular frameworks, which allows me to choose the best tool for creating a high-quality AI solution according to your needs.
 
 
-# 💻 Tech Stack: <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# 💻 Tech Stack
 
 <table align="center">
   <tr>
